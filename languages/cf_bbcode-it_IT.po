@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BBCode-Shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-09 00:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cristiano Fino <cristiano.fino@bbs.olografix.org>\n"
+"Language-Team: Cristiano Fino\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../cf_bbcode.php:92
+msgid "New BBCode added."
+msgstr "Il nuovo BBCode è stato aggiunto"
+
+#: ../cf_bbcode.php:108
+msgid "Last BBCode removed."
+msgstr "L'ultimo BBCode è stato eliminato"
+
+#: ../cf_bbcode.php:147
+msgid "Options saved."
+msgstr "Salvataggio dei parametri effettuato"
+
+#: ../cf_bbcode.php:152
+msgid "BBCode Shortcut Plugin Options"
+msgstr "Opzioni Plugin BBCode Shortcut"
+
+#: ../cf_bbcode.php:163
+msgid "BBCode "
+msgstr "BBCode"
+
+#: ../cf_bbcode.php:169
+msgid "Remove this"
+msgstr "Elimina"
+
+#: ../cf_bbcode.php:169
+msgid "Are you sure ?"
+msgstr "Sei sicuro ?"
+
+#: ../cf_bbcode.php:172
+msgid "This is your BBCode token n."
+msgstr "Questo è il tuo codice BBCode n."
+
+#: ../cf_bbcode.php:173
+msgid "Usage: put ["
+msgstr "USO: inserisci ["
+
+#: ../cf_bbcode.php:173
+msgid ":<em>value-1,...,value-N</em>] in your post"
+msgstr ":<em>value-1,...,value-N</em>] nel testo dell'articolo"
+
+#: ../cf_bbcode.php:177
+msgid "Script "
+msgstr "Script"
+
+#: ../cf_bbcode.php:180
+#: ../cf_bbcode.php:188
+msgid "This script replace the BBCode n."
+msgstr "Questo script andrà a sostituire il BBCode n."
+
+#: ../cf_bbcode.php:181
+#: ../cf_bbcode.php:189
+msgid "{0}...{N} will be replaced by <em>value-1,...,value-N</em> contents in BBCode"
+msgstr "{0}...{N} saranno sostituiti da <em>value-1,...,value-N</em> inseriti di volta in volta nel BBCode"
+
+#: ../cf_bbcode.php:185
+msgid "Alternate feed Script "
+msgstr "Script alternativo per il feed RSS"
+
+#: ../cf_bbcode.php:188
+msgid " only in the feed. If it's left blank, it will not be used"
+msgstr "solo nel feed RSS. Se non viene valorizzato, non sarà utilizzato."
+
+#: ../cf_bbcode.php:194
+msgid "Enabled "
+msgstr "Abilita"
+
+#: ../cf_bbcode.php:197
+msgid "No"
+msgstr "No"
+
+#: ../cf_bbcode.php:198
+msgid "Yes"
+msgstr "Si"
+
+#: ../cf_bbcode.php:200
+msgid "If disabled, the BBcode is replaced by null"
+msgstr "Se il BBCode è disabilitato, il relativo codice non viene mostrato nel post"
+
+#: ../cf_bbcode.php:206
+msgid "Add new BBCode"
+msgstr "Aggiungi un nuovo BBCode"
+
+#: ../cf_bbcode.php:209
+msgid "WARNING: (1) the BBcodes are case sensitive (2) you can recursively remove only the last BBCode."
+msgstr "ATTENZIONE:<br/>(1) I BBCode sono Case Sensitive<br/>(2) è possibile eliminare le definizioni dei BBCode in maniera ricorsiva solo a partire dall'ultimo"
+
+#: ../cf_bbcode.php:211
+msgid "Update Options"
+msgstr "Aggiornamento parametri"
+
